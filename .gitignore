@@ -71,8 +71,6 @@ out
 gen### Example user template template
 ### Example user template
 
-/public/bundle.js
+/public/dist/
 /desktop.ini
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
+
