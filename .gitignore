@@ -73,3 +73,6 @@ gen### Example user template template
 
 /public/bundle.js
 /desktop.ini
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
